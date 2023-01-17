@@ -6,11 +6,11 @@
 *__Ania__*
 ## Subtask 4
 ###### Aplikacja Platforma Skautingowa Futbol Kolektyw pod adresem https://scouts-test.futbolkolektyw.pl/ jest to panel zarządzania graczami, meczami i do tworzenia raportów.
-###### Jak działa aplikacja
+#### Jak działa aplikacja
 
 ###### Gdy wchodzimy w link https://scouts-test.futbolkolektyw.pl/ przenosi nas na stronę do logowania. Wpisujemy odpowiednio adres mailowy i hasło i przenosi nas na stronę główną aplikacji.
 
-###### Funkcjonalności:
+#### Funkcjonalności:
 
 ###### _https://scouts-test.futbolkolektyw.pl/_ - link do logowania się do platformy skautingowej
 ###### _Gracze_ - zakładka z listą zawodników
@@ -26,7 +26,24 @@
 
 ###### Strona jest intuicyjna, bardzo prosto zaprojektowana, ale uboga _wizualnie_ .
 ###### Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona główna jest czytelna jak i pozostałe opcje na stronie np. wtedy gdy wejdę w konkretnego zawodnika. Wszystko wczytuje się prawidłowo. Analiza wczytywania się strony również wyszła prawidłowo.
-##### Błędy
+
+#### Błędy 🐛
+
+##### Błędy językowe aplikacji w wersji polskiej 🇵🇱 󠁧󠁢󠁥󠁮󠁧󠁿:ENGLISH:
+###### - Po zalogowaniu się  wchodzę na Panel Gracze. Panel Gracze w wersji polskiej na górze pasek wyszukiwania z lupką, na górze tekst wyszarzony po angielsku *Search* zamiast *Wyszukaj*. 🔍
+###### - W panelu Gracze wyszukuję zawodnika i wchodze na jego profil. Po wejściu na profil i edycji danych zawodnika na dole strony znajdują się dwa przyciski: *Submit* i *Clear* zamiast *Zatwierdź* i *Wyczyść*
+###### - Na profilu zawodnika podczas edycji, gdy opuszczam wymagane pole np. Imię, Nazwisko, Data urodzenia, Główna pozycja, wyświetla mi się na czerwono *Required* zamiast *Wymagane*
+###### - W panelu Gracze w prawym górnym rogu są ikonki *chmury* ☁️, *drukarki* 🖨️, *3 kolumn*  i symbol *filtra*, gdy najeżdżam myszką na te symbole wyskakuje mi opis po angielsku kolejno: *Download CSV*, *Print*, *View Columns* i *Filter table* zamiast *Załaduj CSV*, *Drukuj*, *Pokaż Kolumny*, *Filtry*. Gdy wchodzę w Filtry wyskakuje tabelka i pojawiają się nagłówki o nazwach *Filters*, *Reset*, i pola *Age*, *Rate* i *max* zamiast *Filtry*, *Resetuj*, *Wiek*, *Ocena* i *maks*.
+###### - Po załogowaniu się do platformy na stronie głównej klikam przycisk Gracze i w prawym dolnym rogu gdy chce przejść na następną stronę najeżdżam myszką na strzałkę do przejścia na następną stronę pojawia mi się po angielsku *Next Page* a gdy chciałabym się cofnąć o stronę najeżdżam myszką na strzałkę aby się cofnąć i pojawia mi się po angielsku *Previous Page*
+##### Błędy ortograficzne
+###### - Po zalogowaniu się do platformy na stronie głównej po prawej stronie sekcja *Aktywnosć* zamiast *Aktywność*
+###### - Po zalogowaniu się do platformy na stronie głównej klikam przycisk *Dodaj gracza*, gdzie znajduje się pole do wypełnienia pod nazwą *Pozycja alternatywa* zamiast *Pozycja alternatywna* albo *Optymalna pozycja*
+##### Pozostałe błędy
+###### - *Brak podwójnej strzałki do przewinięcia graczy do końca* Po zalogowaniu się na platformę, klikam przycisk Gracze i  prawym dolnym rogu aby przejść na ostatnią stronę muszę się przeklikiwać przez 1822 zawodników. Brakuje podwójnej strzałki do przewinięcia graczy do końca. Wtedy przyśpieszyłoby to proces przechodzenia na ostatnią stronę.
+###### - *Brak podwójnej strzałki do cofnięcia się na początek strony* Po zalogowaniu sie na platformę, klikam przycisk Gracze i w prawym dolnym rogu po kliknięciu co najmniej dwa razy strzałki następnej strony powinna pojawić się podwójna strzałka służąca do cofnięcia się na początek strony.
+###### - *Brak Zalogowany jako użytkownik XYZ* Po zalogowaniu się na platformę, na stronie głównej w prawym górnym rogu powinna się pojawić ikonka zalogowanego użytkownika XYZ.
+###### - *Błąd po kliknięciu Dodaj Gracza - Przycisk Dodaj Język* Po zalogowaniu się na platformę klikam przycisk Dodaj Gracza i klikam przyscisk Dodaj Język i pojawia się wyszarzone pole z wyszarzonym napisem Języki zamiast Język. Ponadto mam wrażenie że to pole jest w stanie edycji po wpisaniu języka i to pole wydaje się być cały czas aktywne.Po zatwierdzeniu języka po prawej stronie powinna byc opcja ołówka, żeby móc edytować język i kosza żeby w razie potrzeby usunąć język. Tutaj również dobrze by było żeby przy edytowaniu języka była lista rozwijana z możliwością wyboru języka. 
+###### - *W sekcji Dodaj Gracza brak limitu w polach Waga, Wzrost, Wiek i Telefon* 
 
 ## Subtask 5
 ###### Dołączyłam do grupy na Jirze o nazwie challengedareit
