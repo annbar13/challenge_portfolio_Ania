@@ -6,14 +6,14 @@
 *__Ania__*
 ## Subtask 4
 ###### Aplikacja Platforma Skautingowa Futbol Kolektyw pod adresem https://scouts-test.futbolkolektyw.pl/ jest to panel zarządzania graczami, meczami i do tworzenia raportów.
-Jak działa aplikacja
+###### Jak działa aplikacja
 
-Gdy wchodzimy w link https://scouts-test.futbolkolektyw.pl/ przenosi nas na stronę do logowania. Wpisujemy odpowiednio adres mailowy i hasło i przenosi nas na stronę główną aplikacji.
+###### Gdy wchodzimy w link https://scouts-test.futbolkolektyw.pl/ przenosi nas na stronę do logowania. Wpisujemy odpowiednio adres mailowy i hasło i przenosi nas na stronę główną aplikacji.
 
-Funkcjonalności:
+###### Funkcjonalności:
 
-- https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej
-- [Gracze - zakładka z listą zawodników]
+###### - https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej
+###### - [Gracze - zakładka z listą zawodników]
 - [English - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji]
 - [Wyloguj - przycisk do wylogowania się z aplikacji]
 - [Statystyki - Ilość graczy, ilość meczy, ilość raportów, ilość akcji]
