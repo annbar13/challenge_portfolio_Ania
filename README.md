@@ -12,15 +12,15 @@
 
 ###### Funkcjonalności:
 
-###### - [x]https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej- []
-###### - [Gracze - zakładka z listą zawodników]
-- [English - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji]
-- [Wyloguj - przycisk do wylogowania się z aplikacji]
-- [Statystyki - Ilość graczy, ilość meczy, ilość raportów, ilość akcji]
-- [Dev Team Contact - kontakt do zespołu deweloperskiego przez aplikację Slack]
-- [Linki pomocnicze przycisk "Dodaj gracza"]
-- [Aktywność - kolejność zdarzeń na stronie]
+###### - https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej
+###### - Gracze - zakładka z listą zawodników]
+###### - English - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
+###### - Wyloguj - przycisk do wylogowania się z aplikacji
+###### - Statystyki - Ilość graczy, ilość meczy, ilość raportów, ilość akcji
+###### - Dev Team Contact - kontakt do zespołu deweloperskiego przez aplikację Slack
+###### - Linki pomocnicze przycisk "Dodaj gracza"
+###### - Aktywność - kolejność zdarzeń na stronie
 
-Strona powinna mieć w adresie odnośnik np. "futbolkolektyw.pl/account/login". Wydaje mi się że na stronie głównej przed zalogowaniem się powinno być duże zdjęcie np boiska piłkarskiego i gdy przewijamy w dół przedstawione co ta strona ma na celu w sposób bardziej opisowy. Strona główna nie jest wizualnie atrakcyjna. A zakładka do logowania się np:"futbolkolektyw.pl/account/login"  przez skautów powinna znajdować się w prawym górnym rogu. Gdzie również powinna być możliwość stworzenia konta.
+###### Strona powinna mieć w adresie odnośnik np. "futbolkolektyw.pl/account/login". Wydaje mi się że na stronie głównej przed zalogowaniem się powinno być duże zdjęcie np boiska piłkarskiego i gdy przewijamy w dół przedstawione co ta strona ma na celu w sposób bardziej opisowy. Strona główna nie jest wizualnie atrakcyjna. A zakładka do logowania się np:"futbolkolektyw.pl/account/login"  przez skautów powinna znajdować się w prawym górnym rogu. Gdzie również powinna być możliwość stworzenia konta.
 ## Subtask 5
 ###### Grupa na Jirze o nazwie challengedareit
