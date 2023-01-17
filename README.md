@@ -26,5 +26,7 @@
 
 ###### Strona jest intuicyjna, bardzo prosto zaprojektowana, ale uboga _wizualnie_ .
 ###### Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona główna jest czytelna jak i pozostałe opcje na stronie np. wtedy gdy wejdę w konkretnego zawodnika. Wszystko wczytuje się prawidłowo. Analiza wczytywania się strony również wyszła prawidłowo.
+##### Błędy
+
 ## Subtask 5
-###### Grupa na Jirze o nazwie challengedareit
+###### Dołączyłam do grupy na Jirze o nazwie challengedareit
