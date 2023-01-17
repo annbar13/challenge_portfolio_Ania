@@ -13,8 +13,8 @@
 ###### Funkcjonalności:
 
 ###### - https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej
-###### __*Gracze*__ zakładka z listą zawodników
-###### - English - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
+###### **Gracze** - zakładka z listą zawodników
+###### **English** - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
 ###### - Wyloguj - przycisk do wylogowania się z aplikacji
 ###### - Statystyki - Ilość graczy, ilość meczy, ilość raportów, ilość akcji
 ###### - Dev Team Contact - kontakt do zespołu deweloperskiego przez aplikację Slack
