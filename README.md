@@ -12,7 +12,7 @@ Gdy wchodzimy w link https://scouts-test.futbolkolektyw.pl/ przenosi nas na stro
 
 Funkcjonalności:
 
-- [https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej]
+- https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej
 - [Gracze - zakładka z listą zawodników]
 - [English - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji]
 - [Wyloguj - przycisk do wylogowania się z aplikacji]
