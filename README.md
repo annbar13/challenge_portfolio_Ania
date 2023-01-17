@@ -14,12 +14,12 @@
 
 ###### - https://scouts-test.futbolkolektyw.pl/ link do logowania się do platformy skautingowej
 ###### _Gracze_ - zakładka z listą zawodników
-###### **English** - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
-###### - Wyloguj - przycisk do wylogowania się z aplikacji
-###### - Statystyki - Ilość graczy, ilość meczy, ilość raportów, ilość akcji
-###### - Dev Team Contact - kontakt do zespołu deweloperskiego przez aplikację Slack
-###### - Linki pomocnicze przycisk "Dodaj gracza"
-###### - Aktywność - kolejność zdarzeń na stronie
+###### _English_ - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
+###### _Wyloguj_ - przycisk do wylogowania się z aplikacji
+###### _Statystyki_ - Ilość graczy, ilość meczy, ilość raportów, ilość akcji
+###### _Dev Team Contact_ - kontakt do zespołu deweloperskiego przez aplikację Slack
+###### _Linki pomocnicze_ przycisk "Dodaj gracza"
+###### _Aktywność_ - kolejność zdarzeń na stronie
 
 ###### Wydaje mi się że na stronie głównej przed zalogowaniem się powinno być duże zdjęcie np boiska piłkarskiego i gdy przewijamy w dół przedstawione co ta strona ma na celu w sposób bardziej opisowy. Zakładka do logowania się np:"futbolkolektyw.pl/account/login"  przez skautów powinna znajdować się w prawym górnym rogu. Gdzie również powinna być możliwość stworzenia konta. W przypadku wersji językowej w prawym górnym rogu strony powinna być zakładka z wersją językową strony i lista rozwijana z językami. 
 ###### Po zalogowaniu się jako użytkownik skaut. Na samej górze w prawym górnym rogu powinna znajdować się ikonka użytkownika po kliknieciu w tą ikonkę z opcją wylogowania się. Statystyki czyli ilość graczy, ilość meczy, ilość raportów i ilość akcji są najmniej istotne i powinny znajdować na dole strony. Na środku strony aktualności z wydarzeniami na stronie. Do wersji językowej i ikonki zalogowanego uzytkownika powinna dołączyć zakładka "Gracze" z listą rozwijaną i ikonką "Dodaj gracza" i ikonką lista graczy, gdzie będzie możliwość wyszukania konkretnego zawodnika a obok zakładki "Gracze" powinny się rownież znaleść mecze i raporty z możliwością ich edycji. Po wejściu na konkretnego zawodnika powinny być dane o zawodniku jak róznież statystyki jego formy i jak wypada w porównaniu z innymi zawodnikami. 
