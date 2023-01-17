@@ -29,7 +29,7 @@
 
 #### Błędy 🐛
 
-##### Błędy językowe aplikacji w wersji polskiej 🇵🇱 󠁧󠁢󠁥󠁮󠁧󠁿:ENGLISH:
+##### Błędy językowe aplikacji w wersji polskiej 🇵🇱 󠁧󠁢󠁥󠁮󠁧
 ###### - Po zalogowaniu się  wchodzę na Panel Gracze. Panel Gracze w wersji polskiej na górze pasek wyszukiwania z lupką, na górze tekst wyszarzony po angielsku *Search* zamiast *Wyszukaj*. 🔍
 ###### - W panelu Gracze wyszukuję zawodnika i wchodze na jego profil. Po wejściu na profil i edycji danych zawodnika na dole strony znajdują się dwa przyciski: *Submit* i *Clear* zamiast *Zatwierdź* i *Wyczyść*
 ###### - Na profilu zawodnika podczas edycji, gdy opuszczam wymagane pole np. Imię, Nazwisko, Data urodzenia, Główna pozycja, wyświetla mi się na czerwono *Required* zamiast *Wymagane*
@@ -43,7 +43,9 @@
 ###### - *Brak podwójnej strzałki do cofnięcia się na początek strony* Po zalogowaniu sie na platformę, klikam przycisk Gracze i w prawym dolnym rogu po kliknięciu co najmniej dwa razy strzałki następnej strony powinna pojawić się podwójna strzałka służąca do cofnięcia się na początek strony.
 ###### - *Brak Zalogowany jako użytkownik XYZ* Po zalogowaniu się na platformę, na stronie głównej w prawym górnym rogu powinna się pojawić ikonka zalogowanego użytkownika XYZ.
 ###### - *Błąd po kliknięciu Dodaj Gracza - Przycisk Dodaj Język* Po zalogowaniu się na platformę klikam przycisk Dodaj Gracza i klikam przyscisk Dodaj Język i pojawia się wyszarzone pole z wyszarzonym napisem Języki zamiast Język. Ponadto mam wrażenie że to pole jest w stanie edycji po wpisaniu języka i to pole wydaje się być cały czas aktywne.Po zatwierdzeniu języka po prawej stronie powinna byc opcja ołówka, żeby móc edytować język i kosza żeby w razie potrzeby usunąć język. Tutaj również dobrze by było żeby przy edytowaniu języka była lista rozwijana z możliwością wyboru języka. 
-###### - *W sekcji Dodaj Gracza brak limitu w polach Waga, Wzrost, Wiek i Telefon* 
+###### - *W sekcji Dodaj Gracza brak limitu w polach Waga, Wzrost, Data urodzenia i Telefon* Po zalogowaniu się do platformy klikam przycisk Dodaj Gracza i w polach takich jak Waga, Wzrost mogę wpisać wartości np 1000 i -1000. W dacie urodzenia zawodnik może miec zarówno 100 lat jak i -100 lat. A w polu Telefon nie ma limitu znaków. Na podstawie takich danych i wypełnieniu obowiązkowych pól tworzy mi nowego Gracza.
+###### - *Przypomnienie hasła przy logowaniu się do platformy* Wchodzę na stronę https://scouts-test.futbolkolektyw.pl/. Pojawia mi się okno logowania się do platformy. Wpisuję adres mailowy użytkownika *user01@getnada.com* i klikam *Przypomnij hasło* poźniej wyskakuje mi okienko, żeby wpisać swój adres mailowy i kiedy wpisuję mój adres mailowy pojawia się komunikat, że mail został wysłany a w rzeczywistości nie został wysłany. Powinno wyskoczyć wtedy powiadomienie, że podano zły adres mailowy.
+###### - *Możliwość edycji gracza przez wszystkich użytkowników*. Po zalogowaniu się na platformie jako użytkownik nr 1 klikam przycisk Gracze i wyszukuję zawodnika np. Robert Lewandowski wchodzę w profil zawodnika i mogę edytować. Moim zdaniem dostęp do edycji danych powinien mieć tylko użytkownik, który utworzył profil danego zawodnika. Tutaj wszyscy użytkownicy mogą edytować profile zawodników. 
 
 ## Subtask 5
 ###### Dołączyłam do grupy na Jirze o nazwie challengedareit
