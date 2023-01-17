@@ -12,13 +12,13 @@
 
 ###### Funkcjonalności:
 
-###### _https://scouts-test.futbolkolektyw.pl/_ link do logowania się do platformy skautingowej
+###### _https://scouts-test.futbolkolektyw.pl/_ - link do logowania się do platformy skautingowej
 ###### _Gracze_ - zakładka z listą zawodników
 ###### _English_ - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
 ###### _Wyloguj_ - przycisk do wylogowania się z aplikacji
 ###### _Statystyki_ - Ilość graczy, ilość meczy, ilość raportów, ilość akcji
 ###### _Dev Team Contact_ - kontakt do zespołu deweloperskiego przez aplikację Slack
-###### _Linki pomocnicze_ przycisk "Dodaj gracza"
+###### _Linki pomocnicze_ - przycisk "Dodaj gracza"
 ###### _Aktywność_ - kolejność zdarzeń na stronie
 
 ###### Wydaje mi się że na stronie głównej przed zalogowaniem się powinno być duże zdjęcie np boiska piłkarskiego i gdy przewijamy w dół przedstawione co ta strona ma na celu w sposób bardziej opisowy. Zakładka do logowania się np:"futbolkolektyw.pl/account/login"  przez skautów powinna znajdować się w prawym górnym rogu. Gdzie również powinna być możliwość stworzenia konta. W przypadku wersji językowej w prawym górnym rogu strony powinna być zakładka z wersją językową strony i lista rozwijana z językami. 
