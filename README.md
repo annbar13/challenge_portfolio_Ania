@@ -25,6 +25,6 @@
 ###### Po zalogowaniu się jako użytkownik skaut. Na samej górze w prawym górnym rogu powinna znajdować się ikonka użytkownika po kliknieciu w tą ikonkę z opcją wylogowania się. Statystyki czyli ilość graczy, ilość meczy, ilość raportów i ilość akcji są najmniej istotne i powinny znajdować na dole strony. Na środku strony aktualności z wydarzeniami na stronie. Do wersji językowej i ikonki zalogowanego uzytkownika powinna dołączyć zakładka "Gracze" z listą rozwijaną i ikonką "Dodaj gracza" i ikonką lista graczy, gdzie będzie możliwość wyszukania konkretnego zawodnika a obok zakładki "Gracze" powinny się rownież znaleść mecze i raporty z możliwością ich edycji. Po wejściu na konkretnego zawodnika powinny być dane o zawodniku jak róznież statystyki jego formy i jak wypada w porównaniu z innymi zawodnikami. 
 
 ###### Strona jest intuicyjna, bardzo prosto zaprojektowana, ale uboga _wizualnie_ .
-###### Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona główna jest czytelna jak i pozostałe opcje na stronie np wtedy gdy wejdę w konkretnego zawodnika. Wszystko wczytuje się prawidłowo. Analiza wczytywania się strony również wyszła prawidłowo.
+###### Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona główna jest czytelna jak i pozostałe opcje na stronie np. wtedy gdy wejdę w konkretnego zawodnika. Wszystko wczytuje się prawidłowo. Analiza wczytywania się strony również wyszła prawidłowo.
 ## Subtask 5
 ###### Grupa na Jirze o nazwie challengedareit
