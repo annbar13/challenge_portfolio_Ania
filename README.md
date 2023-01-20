@@ -1,4 +1,5 @@
 # Task 1
+
 ## Subtask 1
  8/10 punktów
 ## Subtask 3
@@ -49,3 +50,8 @@ Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona głów
 
 ## Subtask 5
 Dołączyłam do grupy na Jirze o nazwie **challengedareit**
+
+# Task 2
+
+## Subtask 1
+**User story no. 1**
