@@ -48,4 +48,4 @@ Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona głów
 * *Brak możliwości wyszukiwania zawodnika po imieniu i nazwisku i niedziałająca lupka w wyszukiwarce* Po zalogowaniu się na platformę klikam przycisk Gracze i gdy chcę wyszukać zawodnika w wyszukiwarce z lupką znajdującej się obok napisu Scouts Panel np: *Robert Lewandowski*. W tym wypadku wyszuka mi zawodnika tylko po imieniu albo tylko po nazwisku. Gdy wpisuję imię i nazwisko zawodnika i klikam enter wyskakuje mi powiadomienie po angielsku: *No matching records found* zamiast *Przepraszamy nie znaleziono pasujących wyników*, ale tego powiadomienia nie powinno być, bo powinno się go móc wyszukać zarówno po imieniu jak i nazwisku.  Gdy wpisuję nazwisko np. *Lewandowski* i klikam lupkę, to nic się nie dzieje.
 
 ## Subtask 5
-###### Dołączyłam do grupy na Jirze o nazwie challengedareit
+Dołączyłam do grupy na Jirze o nazwie **challengedareit**
