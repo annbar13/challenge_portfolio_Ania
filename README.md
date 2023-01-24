@@ -54,4 +54,12 @@ Dołączyłam do grupy na Jirze o nazwie **challengedareit**
 # Task 2
 
 ## Subtask 1
-**User story no. 1**
+**User story**
+https://drive.google.com/drive/folders/1vqpE-Bnmb-Hw0DaUlT_qZd7DmhYM__Sa?usp=sharing
+
+## Subtask 2
+**Own Experience Test Cases**
+https://drive.google.com/drive/folders/1vqpE-Bnmb-Hw0DaUlT_qZd7DmhYM__Sa?usp=sharing
+
+## Subtask 3
+Dzięki przypdadkom testowym można zaplanować to co się chce przetestować i dzięki nim mamy pewność, że przy testowaniu nie pominie się żadnej ważnej funkcjonalności.
