@@ -1,3 +1,28 @@
+#Task 3
+
+## Subtask 1
+https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
+
+## Subtask 2
+https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
+
+## Subtask 3
+https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
+
+# Task 2
+
+## Subtask 1
+**User story**
+https://drive.google.com/drive/folders/1vqpE-Bnmb-Hw0DaUlT_qZd7DmhYM__Sa?usp=sharing
+
+## Subtask 2
+**Own Experience Test Cases**
+https://drive.google.com/drive/folders/1vqpE-Bnmb-Hw0DaUlT_qZd7DmhYM__Sa?usp=sharing
+
+## Subtask 3
+Dzięki przypdadkom testowym można zaplanować to co się chce przetestować i dzięki nim mamy pewność, że przy testowaniu nie pominie się żadnej ważnej funkcjonalności.
+
+
 # Task 1
 
 ## Subtask 1
@@ -51,15 +76,3 @@ Po przetestowaniu DevToolsow i z punktu widzenia innych urządzeń strona głów
 ## Subtask 5
 Dołączyłam do grupy na Jirze o nazwie **challengedareit**
 
-# Task 2
-
-## Subtask 1
-**User story**
-https://drive.google.com/drive/folders/1vqpE-Bnmb-Hw0DaUlT_qZd7DmhYM__Sa?usp=sharing
-
-## Subtask 2
-**Own Experience Test Cases**
-https://drive.google.com/drive/folders/1vqpE-Bnmb-Hw0DaUlT_qZd7DmhYM__Sa?usp=sharing
-
-## Subtask 3
-Dzięki przypdadkom testowym można zaplanować to co się chce przetestować i dzięki nim mamy pewność, że przy testowaniu nie pominie się żadnej ważnej funkcjonalności.
