@@ -1,11 +1,18 @@
 # Task 4
 
 ## Subtask 1
-
+https://drive.google.com/drive/folders/1-7logmH77_M23AJqFQXNEK-vueZGqe2A?usp=sharing
 ## Subtask 2
-
+https://drive.google.com/drive/folders/1-7logmH77_M23AJqFQXNEK-vueZGqe2A?usp=sharing
 ## Subtask 3
-OLX is a free local notice app. You can find here job advertisements as well as advertisements for buying and selling used items.
+OLX is a free local notice app. You can find here job advertisements as well as advertisements for buying and selling used items.The End-user of the app is a private person who looks for a job or would like to sell, buy second hand items or use the services.In my opinion OLX app is user-friendly I can easly navigate the page. I would add in the navigation bar the tab Job instead of Following/ Favourites which should be on my profile when I'm logged.  
+
+Differences between a web app and native app
+- In the native app when I open OLX app it requires my location
+- The navigation bar is at the bottom
+- In the web app navigation bar is at the top
+- By opening first time the web app it asks to accept the cookies
+- In the web app next to the Searching tool you can find the location field
 
 # Task 3
 
