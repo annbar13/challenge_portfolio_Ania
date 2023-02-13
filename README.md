@@ -38,6 +38,22 @@ WHERE actor_id = '4' OR actor_id = '7'
 
 ![image](https://user-images.githubusercontent.com/101512808/218550372-70c36d2f-911e-4bae-a05d-10ea822eb08b.png)
 
+**6. Display customers with id 2,4,6 use logical condition for this.**
+
+SELECT *
+FROM customers
+WHERE customer_id = '2' OR customer_id = '4' OR customer_id = '6'
+
+![image](https://user-images.githubusercontent.com/101512808/218562030-edbf1aaa-446a-4d64-b6ab-f66aa2542f08.png)
+
+**7. Display customers with id 1,3,5 use IN operator for this.**
+
+SELECT customer_id, name, surname, email
+FROM customers
+WHERE customer_id IN (1,3,5)
+
+![image](https://user-images.githubusercontent.com/101512808/218564886-56edc2f4-3c8a-4cd6-a3ed-90600e3f2d2c.png)
+
 
 
 
