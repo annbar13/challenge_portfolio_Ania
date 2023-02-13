@@ -69,8 +69,13 @@ WHERE email IS NULL
 
 ![image](https://user-images.githubusercontent.com/101512808/218567275-852c711b-098e-4647-b3c5-958c354c6a74.png)
 
+**10. View all movies priced over $9 and with an ID between 2 and 8 movie_id.**
 
+SELECT *
+FROM movies
+WHERE price >'9' AND movie_id BETWEEN 2 AND 8
 
+![image](https://user-images.githubusercontent.com/101512808/218568931-206a6480-6b2e-4d1a-9a95-3026fb49ae1d.png)
 
 
 # Task 4
