@@ -16,6 +16,12 @@ WHERE year_of_production = '2019'
 
 ![image](https://user-images.githubusercontent.com/101512808/218535129-0e472cdf-fcaf-4bd0-8d29-ff63eae5758b.png)
 
+3. View all movies made between 1900 and 1999.
+
+SELECT * FROM movies
+WHERE year_of_production BETWEEN 1900 AND 1999
+
+![image](https://user-images.githubusercontent.com/101512808/218541497-e99dafba-ab45-4a9a-b2d6-97d40bd848a1.png)
 
 
 
