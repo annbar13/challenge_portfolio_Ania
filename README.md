@@ -54,6 +54,15 @@ WHERE customer_id IN (1,3,5)
 
 ![image](https://user-images.githubusercontent.com/101512808/218564886-56edc2f4-3c8a-4cd6-a3ed-90600e3f2d2c.png)
 
+**8. Display the details of all persons in the 'actors' table whose name starts with 'An'.**
+
+SELECT *
+FROM actors
+WHERE name LIKE 'An%'
+
+![image](https://user-images.githubusercontent.com/101512808/218565797-63beed07-8204-4bf3-8ed7-8e1820a29010.png)
+
+
 
 
 
