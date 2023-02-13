@@ -62,6 +62,12 @@ WHERE name LIKE 'An%'
 
 ![image](https://user-images.githubusercontent.com/101512808/218565797-63beed07-8204-4bf3-8ed7-8e1820a29010.png)
 
+**9. Display details of a customer who does not have an email address provided.**
+
+SELECT * FROM `customers`
+WHERE email IS NULL
+
+![image](https://user-images.githubusercontent.com/101512808/218567275-852c711b-098e-4647-b3c5-958c354c6a74.png)
 
 
 
