@@ -31,6 +31,14 @@ WHERE price < '7'
 
 ![image](https://user-images.githubusercontent.com/101512808/218545086-128b1fb1-47ac-4f64-b729-1922f62c23cf.png)
 
+**5. Use the logical AND/ OR? operator to display actors with actor_ids between 4-7 (4 and 7 should display). DO NOT USE BETWEEN operator.**
+
+SELECT * FROM `actors`
+WHERE actor_id = '4' OR actor_id = '7'
+
+![image](https://user-images.githubusercontent.com/101512808/218550372-70c36d2f-911e-4bae-a05d-10ea822eb08b.png)
+
+
 
 
 
