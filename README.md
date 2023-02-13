@@ -9,6 +9,14 @@ ORDER BY surname
 
 ![image](https://user-images.githubusercontent.com/101512808/218532727-82cd43fe-76fa-489d-8c1e-bbd2d742cb5c.png)
 
+2. View a movie that was made in 2019.
+
+SELECT * FROM movies
+WHERE year_of_production = '2019'
+
+![image](https://user-images.githubusercontent.com/101512808/218535129-0e472cdf-fcaf-4bd0-8d29-ff63eae5758b.png)
+
+
 
 
 # Task 4
