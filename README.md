@@ -2,7 +2,14 @@
 
 ## Subtask 3
 
-1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+1. Display the actors table in alphabetical order by sorting by the surname column.
+
+SELECT * FROM `actors` 
+ORDER BY surname
+
+![image](https://user-images.githubusercontent.com/101512808/218532727-82cd43fe-76fa-489d-8c1e-bbd2d742cb5c.png)
+
+
 
 # Task 4
 
