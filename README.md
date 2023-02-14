@@ -31,12 +31,14 @@ WHERE price < '7'
 
 ![image](https://user-images.githubusercontent.com/101512808/218545086-128b1fb1-47ac-4f64-b729-1922f62c23cf.png)
 
-**5. Use the logical AND/ OR? operator to display actors with actor_ids between 4-7 (4 and 7 should display). DO NOT USE BETWEEN operator.**
+**5. Use the logical AND operator to display actors with actor_ids between 4-7 (4 and 7 should display). DO NOT USE BETWEEN operator.**
 
-SELECT * FROM `actors`
-WHERE actor_id = '4' OR actor_id = '7'
+SELECT *
+FROM actors
+WHERE (name = 'Jack' OR name = 'Harrison' OR name = 'Anne' OR name = 'Helena') AND actor_id IN (4,5,6,7)
 
-![image](https://user-images.githubusercontent.com/101512808/218550372-70c36d2f-911e-4bae-a05d-10ea822eb08b.png)
+![image](https://user-images.githubusercontent.com/101512808/218806694-d114d366-fb5e-4f0d-9fe8-33720b26117c.png)
+
 
 **6. Display customers with id 2,4,6 use logical condition for this.**
 
