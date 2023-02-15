@@ -1,5 +1,26 @@
 # Task 5
 
+## Subtask 1
+
+*SELECT* * shows all the colummns
+The SELECT statement is used to select data from a database.
+
+*FROM* the name of the table should be displayed *table_name*
+
+*ORDER BY* The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+The ORDER BY keyword sorts the records in *ascending* order by default. To sort the records in *descending* order, use the *DESC* keyword.
+
+**Example:**
+
+SELECT column1, column2, ...
+
+FROM table_name
+
+ORDER BY column1, column2, ... ASC|DESC;
+
+*WHERE* The WHERE clause is used to filter records.
+It is used to extract only those records that fulfill a specified condition.
+
 ## Subtask 3
 
 **1. Display the actors table in alphabetical order by sorting by the surname column.**
