@@ -2,15 +2,21 @@
 
 ## Subtask 1
 
-*SELECT* * shows all the colummns
+**SELECT** * 
+
+shows all the colummns
 The SELECT statement is used to select data from a database.
 
-*FROM* the name of the table should be displayed *table_name*
+**FROM** 
 
-*ORDER BY* The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+the name of the table should be displayed *table_name*
+
+**ORDER BY** 
+
+The ORDER BY keyword is used to sort the result-set in ascending or descending order.
 The ORDER BY keyword sorts the records in *ascending* order by default. To sort the records in *descending* order, use the *DESC* keyword.
 
-**Example:**
+_Example:_
 
 SELECT column1, column2, ...
 
@@ -18,8 +24,103 @@ FROM table_name
 
 ORDER BY column1, column2, ... ASC|DESC;
 
-*WHERE* The WHERE clause is used to filter records.
+**WHERE** 
+
+The WHERE clause is used to filter records.
 It is used to extract only those records that fulfill a specified condition.
+The WHERE clause can be combined with AND, OR, and NOT operators.
+
+_Example:_
+
+SELECT column1, column2, ...
+
+FROM table_name
+
+WHERE condition;
+
+
+**AND/OR Operators** 
+
+The AND operator displays a record if all the conditions separated by AND are TRUE.
+The OR operator displays a record if any of the conditions separated by OR is TRUE.
+
+_Example_
+
+SELECT column1, column2, ...
+
+FROM table_name
+
+WHERE condition1 AND condition2 AND condition3 ...;
+
+WHERE Color = 'Black' AND Size = 'M'
+
+_Example_
+
+SELECT column1, column2, ...
+
+FROM table_name
+
+WHERE condition1 OR condition2 OR condition3 ...;
+
+WHERE Color = 'Black' OR Color = 'Silver'
+
+**LIKE**
+
+The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+
+_Example_
+
+SELECT column1, column2, ...
+
+FROM table_name
+
+WHERE columnN LIKE pattern;
+
+WHERE Name LIKE 'B%' name which starts with B
+
+WHERE Name LIKE '%b' name which ends with b
+
+WHERE Name LIKE '%Bike%' finds values that have Bike in any position
+
+**IS NULL**
+
+The IS NULL operator is used to test for empty values (NULL values).
+
+_Example_
+
+SELECT CustomerName, ContactName, Address
+
+FROM Customers
+
+WHERE Address IS NULL;
+
+
+**IN**
+
+The IN operator allows you to specify multiple values in a WHERE clause.
+The IN operator is a shorthand for multiple OR conditions.
+
+_Example_
+
+The following SQL statement selects all customers that are located in "Germany", "France" or "UK":
+
+SELECT * FROM Customers
+
+WHERE Country NOT IN ('Germany', 'France', 'UK');
+
+**BETWEEN**
+
+The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.
+
+_Example_
+
+The following SQL statement selects all products with a price between 10 and 20:
+
+SELECT * FROM Products
+
+WHERE Price BETWEEN 10 AND 20;
+
+
 
 ## Subtask 3
 
