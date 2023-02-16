@@ -161,6 +161,12 @@ WHERE (name = 'Jack' OR name = 'Harrison' OR name = 'Anne' OR name = 'Helena') A
 
 ![image](https://user-images.githubusercontent.com/101512808/218806694-d114d366-fb5e-4f0d-9fe8-33720b26117c.png)
 
+SELECT *
+FROM actors
+WHERE actor_id >= '4' AND actor_id <= '7'
+
+![image](https://user-images.githubusercontent.com/101512808/219449670-cd355a6b-c0f9-4f01-ac5d-4ae579eebbcb.png)
+
 
 **6. Display customers with id 2,4,6 use logical condition for this.**
 
