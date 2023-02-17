@@ -1,3 +1,29 @@
+# Task 6
+
+## Subtask 1
+
+**11. Incorrect surname in the customers table position 3**
+
+UPDATE customers
+SET surname = 'Miler'
+WHERE customer_id = '3'
+
+![image](https://user-images.githubusercontent.com/101512808/219773736-6d505518-5bf2-4654-a2a3-abe6d1eb30d2.png)
+
+**12.Too much money was taken from a customer who recently bought a video with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of a fantastic boss.**
+
+SELECT sale.customer_id, sale.movie_id, customers.name, customers.email, movies.price
+
+FROM ((sale
+
+INNER JOIN movies ON sale.movie_id = movies.movie_id)
+
+INNER JOIN customers ON sale.customer_id = customers.customer_id)  
+
+![image](https://user-images.githubusercontent.com/101512808/219791101-3c813ff5-f1c5-45d4-afb2-ee9c31b58e9c.png)
+
+
+
 # Task 5
 
 ## Subtask 1
