@@ -22,6 +22,57 @@ INNER JOIN customers ON sale.customer_id = customers.customer_id)
 
 ![image](https://user-images.githubusercontent.com/101512808/219791101-3c813ff5-f1c5-45d4-afb2-ee9c31b58e9c.png)
 
+**13. Patrycja, a customer, does not have an e-mail address. Complete the gap by entering pati@mail.com in the appropriate field**
+
+UPDATE customers
+
+SET email = 'pati@mail.com'
+
+WHERE customer_id = 4 
+
+![image](https://user-images.githubusercontent.com/101512808/219876374-95c9116c-ada7-4e26-b8e5-bb38134c33b4.png)
+
+**14.For each purchase, display the name of the customer who made the rental and the title of the rented movie. (use the inner join function for this, think beforehand which tables will be useful for you to perform the exercise).**
+
+SELECT sale.customer_id, sale.movie_id, customers.name, customers.surname, customers.email, movies.title, movies.price, sale.sale_date
+
+FROM ((sale
+
+INNER JOIN movies ON sale.movie_id = movies.movie_id)
+
+INNER JOIN customers ON sale.customer_id = customers.customer_id)
+
+![image](https://user-images.githubusercontent.com/101512808/219876764-2cc751cf-0a43-4b87-85ed-124ecd05eb5d.png)
+
+**15. In order to anonymise the data, you want to create pseudonyms for your customers. - Add a column named 'pseudonym' to the customer table, - Fill in the column so that the nickname is made up of the first two letters of the first name and the last letter of the last name. E.g. Natalie Pilling → Nag**
+
+
+UPDATE customers
+SET pseudonym = 'Ols'
+WHERE customer_id = '1'; 
+
+UPDATE customers
+SET pseudonym = 'Kal'
+WHERE customer_id = '2'; 
+
+UPDATE customers
+SET pseudonym = 'Anr'
+WHERE customer_id = '3';
+
+UPDATE customers
+SET pseudonym = 'Par'
+WHERE customer_id = '4';
+
+UPDATE customers
+SET pseudonym = 'Mao'
+WHERE customer_id = '5';
+
+UPDATE customers
+SET pseudonym = 'Nag'
+WHERE customer_id = '6';
+
+![image](https://user-images.githubusercontent.com/101512808/219882495-c23f08f5-8ec3-42a8-bca7-eaa53bbbfae6.png)
+
 
 
 # Task 5
