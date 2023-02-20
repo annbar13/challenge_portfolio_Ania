@@ -143,6 +143,19 @@ WHERE movie_id = 9;
 
 ![image](https://user-images.githubusercontent.com/101512808/220180277-8c943c89-bfc5-40c2-ac90-0427203dc112.png)
 
+**19. Display the name of the actor with id 4 and the title of the movie he starred in**
+
+SELECT actors.actor_id, actors.name, actors.surname, movies.title
+
+FROM ((actors
+
+INNER JOIN cast ON actors.actor_id = cast.actor_id)     
+
+INNER JOIN movies ON cast.movie_id = movies.movie_id)
+
+![image](https://user-images.githubusercontent.com/101512808/220183387-0facc401-5329-43de-abf3-13927e2568c7.png)
+
+
 
 
 # Task 5
