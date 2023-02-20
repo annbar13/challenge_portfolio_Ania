@@ -86,6 +86,64 @@ INNER JOIN customers ON sale.customer_id = customers.customer_id)
 ![image](https://user-images.githubusercontent.com/101512808/220174337-c7266043-bc2e-4c9a-b743-7d0851191a85.png)
 
 
+**17. Display a common list of names of all actors and clients, and sort the result alphabetically. (Use the UNION function for this)**
+
+SELECT name FROM actors
+
+UNION
+
+SELECT name FROM customers
+
+ORDER BY name
+
+![image](https://user-images.githubusercontent.com/101512808/220175448-914c4355-fe8f-4e02-ba05-4da8b05eaf69.png)
+
+**18.Inflation has taken over Poland and our movie shop has also been affected by this problem. Increase the price of all movies made after 2000 by $2.50 (Remember that the dollar is the default unit - don't use it anywhere). **
+
+UPDATE movies
+
+SET price = '7,5'
+
+WHERE movie_id = 1;
+
+
+UPDATE movies
+
+SET price = '9'
+
+WHERE movie_id = 3;
+
+
+UPDATE movies
+
+SET price = '6,5'
+
+WHERE movie_id = 4;
+
+
+UPDATE movies
+
+SET price = '7,5'
+
+WHERE movie_id = 6;
+
+
+UPDATE movies
+
+SET price = '12,5'
+
+WHERE movie_id = 7;
+
+
+UPDATE movies
+
+SET price = '12,5'
+
+WHERE movie_id = 9;
+
+![image](https://user-images.githubusercontent.com/101512808/220180277-8c943c89-bfc5-40c2-ac90-0427203dc112.png)
+
+
 
 # Task 5
 
