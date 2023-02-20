@@ -98,7 +98,7 @@ ORDER BY name
 
 ![image](https://user-images.githubusercontent.com/101512808/220175448-914c4355-fe8f-4e02-ba05-4da8b05eaf69.png)
 
-**18.Inflation has taken over Poland and our movie shop has also been affected by this problem. Increase the price of all movies made after 2000 by $2.50 (Remember that the dollar is the default unit - don't use it anywhere). **
+**18.Inflation has taken over Poland and our movie shop has also been affected by this problem. Increase the price of all movies made after 2000 by $2.50 (Remember that the dollar is the default unit - don't use it anywhere).**
 
 UPDATE movies
 
