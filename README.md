@@ -155,6 +155,13 @@ INNER JOIN movies ON cast.movie_id = movies.movie_id)
 
 ![image](https://user-images.githubusercontent.com/101512808/220183387-0facc401-5329-43de-abf3-13927e2568c7.png)
 
+**20. And where is our HONIA!? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa**
+
+INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+
+VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+
+![image](https://user-images.githubusercontent.com/101512808/220184874-b347df05-841c-4da8-8ec8-190eee826d78.png)
 
 
 
