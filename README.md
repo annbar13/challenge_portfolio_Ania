@@ -75,15 +75,19 @@ WHERE customer_id = '6';
 
 **16. Display the titles of the movies that have been purchased, display the table in such a way that the titles do not repeat.**
 
-SELECT sale.customer_id, sale.movie_id, customers.name, customers.surname, customers.email, movies.title, movies.price, sale.sale_date
-FROM ((sale
+SELECT movies.movie_id, movies.title, movies.price, sale.sale_date
 
-INNER JOIN movies ON sale.movie_id = movies.movie_id)
+FROM movies
 
-INNER JOIN customers ON sale.customer_id = customers.customer_id)
+INNER JOIN sale ON movies.movie_id = sale.movie_id;
 
+![image](https://user-images.githubusercontent.com/101512808/220189360-f8a28b1d-0d15-4439-87ed-18e641d3e03e.png)
 
-![image](https://user-images.githubusercontent.com/101512808/220174337-c7266043-bc2e-4c9a-b743-7d0851191a85.png)
+SELECT *
+FROM movies
+
+![image](https://user-images.githubusercontent.com/101512808/220190196-2f2a10ee-0d83-4267-bcdc-c46199fcc1e3.png)
+
 
 
 **17. Display a common list of names of all actors and clients, and sort the result alphabetically. (Use the UNION function for this)**
