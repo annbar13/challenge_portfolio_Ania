@@ -34,15 +34,15 @@ WHERE customer_id = 4
 
 **14.For each purchase, display the name of the customer who made the rental and the title of the rented movie. (use the inner join function for this, think beforehand which tables will be useful for you to perform the exercise).**
 
-SELECT sale.customer_id, sale.movie_id, customers.name, customers.surname, customers.email, movies.title, movies.price, sale.sale_date
-
+SELECT sale.customer_id, sale.movie_id, customers.name, customers.surname, customers.email, movies.title
 FROM ((sale
 
 INNER JOIN movies ON sale.movie_id = movies.movie_id)
 
 INNER JOIN customers ON sale.customer_id = customers.customer_id)
 
-![image](https://user-images.githubusercontent.com/101512808/219876764-2cc751cf-0a43-4b87-85ed-124ecd05eb5d.png)
+![image](https://user-images.githubusercontent.com/101512808/220174044-118036b5-bad6-49e0-9acf-30b74b7af5f0.png)
+
 
 **15. In order to anonymise the data, you want to create pseudonyms for your customers. - Add a column named 'pseudonym' to the customer table, - Fill in the column so that the nickname is made up of the first two letters of the first name and the last letter of the last name. E.g. Natalie Pilling → Nag**
 
@@ -72,6 +72,18 @@ SET pseudonym = 'Nag'
 WHERE customer_id = '6';
 
 ![image](https://user-images.githubusercontent.com/101512808/219882495-c23f08f5-8ec3-42a8-bca7-eaa53bbbfae6.png)
+
+**16. Display the titles of the movies that have been purchased, display the table in such a way that the titles do not repeat.**
+
+SELECT sale.customer_id, sale.movie_id, customers.name, customers.surname, customers.email, movies.title, movies.price, sale.sale_date
+FROM ((sale
+
+INNER JOIN movies ON sale.movie_id = movies.movie_id)
+
+INNER JOIN customers ON sale.customer_id = customers.customer_id)
+
+
+![image](https://user-images.githubusercontent.com/101512808/220174337-c7266043-bc2e-4c9a-b743-7d0851191a85.png)
 
 
 
