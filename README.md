@@ -1,5 +1,7 @@
 # Task 6
 
+SQL Part 2
+
 ## Subtask 1
 
 **11. Incorrect surname in the customers table position 3**
@@ -185,6 +187,8 @@ Portfolio Link :blush:
 
 
 # Task 5
+
+SQL Part 1
 
 ## Subtask 1
 
