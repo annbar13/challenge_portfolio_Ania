@@ -77,21 +77,22 @@ WHERE customer_id = '6';
 
 ![image](https://user-images.githubusercontent.com/101512808/219882495-c23f08f5-8ec3-42a8-bca7-eaa53bbbfae6.png)
 
+ALTER TABLE customers
+ADD pseudonim varchar(255);
+
+UPDATE customers
+SET pseudonim = concat(LEFT(name,2),RIGHT(surname,1))
+
+![image](https://user-images.githubusercontent.com/101512808/220994365-f788004d-bc9d-4f3c-b23f-c94dfb93d903.png)
+
+
 **16. Display the titles of the movies that have been purchased, display the table in such a way that the titles do not repeat.**
 
-SELECT movies.movie_id, movies.title, movies.price, sale.sale_date
-
+SELECT DISTINCT title
 FROM movies
+JOIN sale ON movies.movie_id = sale.movie_id
 
-INNER JOIN sale ON movies.movie_id = sale.movie_id;
-
-![image](https://user-images.githubusercontent.com/101512808/220189360-f8a28b1d-0d15-4439-87ed-18e641d3e03e.png)
-
-SELECT *
-FROM movies
-
-![image](https://user-images.githubusercontent.com/101512808/220190196-2f2a10ee-0d83-4267-bcdc-c46199fcc1e3.png)
-
+![image](https://user-images.githubusercontent.com/101512808/220996578-48f5f23f-f132-48d0-a04b-3b90ebb84f98.png)
 
 
 **17. Display a common list of names of all actors and clients, and sort the result alphabetically. (Use the UNION function for this)**
