@@ -417,8 +417,6 @@ Differences between a web app and native app
 
 # Task 3
 
-## Subtask 1
-https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
 
 ## Subtask 2
 https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
