@@ -429,12 +429,12 @@ https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sha
 # Task 2
 
 ## Subtask 1
-**User story**
+
 [User Story Test Cases](https://drive.google.com/file/d/1mYZDD-dNx7rX-8V2MN9ezDqlhHHyWlm_/view?usp=sharing)
 
 ## Subtask 2
-**Own Experience Test Cases**
-[Own Experience Test Cases](https://drive.google.com/file/d/1lF4GO8ekOtE1QXQBbYY1VaacnkYj3Ofn/view?usp=sharing)
+
+[Own Experience Test 20 Cases](https://drive.google.com/file/d/1lF4GO8ekOtE1QXQBbYY1VaacnkYj3Ofn/view?usp=sharing)
 
 ## Subtask 3
 Dzięki przypdadkom testowym można zaplanować to co się chce przetestować i dzięki nim mamy pewność, że przy testowaniu nie pominie się żadnej ważnej funkcjonalności.
