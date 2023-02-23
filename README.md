@@ -457,7 +457,6 @@ Aplikacja Platforma Skautingowa Futbol Kolektyw pod adresem https://scouts-test.
 * _Gracze_ - zakładka z listą zawodników
 * _English_ - wersja językowa. Mozliwość zmiany wersji językowej po zalogowaniu się na wersję polską aplikacji
 * _Wyloguj_ - przycisk do wylogowania się z aplikacji
-* _Statystyki_ - Ilość graczy, ilość meczy, ilość raportów, ilość akcji
 * _Dev Team Contact_ - kontakt do zespołu deweloperskiego przez aplikację Slack
 * _Linki pomocnicze_ - przycisk "Dodaj gracza"
 * _Aktywność_ - kolejność zdarzeń na stronie
