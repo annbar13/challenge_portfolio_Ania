@@ -401,8 +401,7 @@ WHERE price >'9' AND movie_id BETWEEN 2 AND 8
 
 # Task 4
 
-## Subtask 1
-https://drive.google.com/drive/folders/1-7logmH77_M23AJqFQXNEK-vueZGqe2A?usp=sharing
+
 ## Subtask 2
 https://drive.google.com/drive/folders/1-7logmH77_M23AJqFQXNEK-vueZGqe2A?usp=sharing
 ## Subtask 3
