@@ -417,9 +417,8 @@ Differences between a web app and native app
 
 # Task 3
 
-
 ## Subtask 2
-https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
+[Bug Reporting Scouts Panel - production environment](https://docs.google.com/document/d/1w-GatSM5YCQ85uiDgTCE8fsEpb-A6B5HgkxT4rYG1wE/edit?usp=sharing)
 
 ## Subtask 3
 https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
