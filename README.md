@@ -1,6 +1,6 @@
 # Task 6
 
-SQL Part 2
+*SQL Part 2*
 
 ## Subtask 1
 
@@ -189,7 +189,7 @@ Portfolio Link :blush:
 
 # Task 5
 
-SQL Part 1
+*SQL Part 1*
 
 ## Subtask 1
 
