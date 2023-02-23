@@ -403,7 +403,8 @@ WHERE price >'9' AND movie_id BETWEEN 2 AND 8
 
 
 ## Subtask 2
-https://drive.google.com/drive/folders/1-7logmH77_M23AJqFQXNEK-vueZGqe2A?usp=sharing
+[Bug reporting OLX app](https://docs.google.com/document/d/1V8gRop8EabPQ_76p-HiTNFWHtvB2tUBXd4oA3b-KLkg/edit?usp=sharing)
+
 ## Subtask 3
 OLX is a free local notice app. You can find here job advertisements as well as advertisements for buying and selling used items.The End-user of the app is a private person who looks for a job or would like to sell, buy second hand items or use the services.In my opinion OLX app is user-friendly I can easly navigate the page. I would add in the navigation bar the tab Job instead of Following/ Favourites which should be on my profile when I'm logged.  
 
