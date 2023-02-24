@@ -421,7 +421,7 @@ Differences between a web app and native app
 [Bug Reporting Scouts Panel - production environment](https://docs.google.com/document/d/1w-GatSM5YCQ85uiDgTCE8fsEpb-A6B5HgkxT4rYG1wE/edit?usp=sharing)
 
 ## Subtask 3
-https://drive.google.com/drive/folders/1iS1zHlZjLjP84QjwBht1D12KzVNrOzjs?usp=sharing
+[Testing Report](https://docs.google.com/spreadsheets/d/1ijx8kIkpzNPIRerjK2CX84NQKHyklTAE5cDnk6fEOus/edit?usp=sharing)
 
 # Task 2
 
