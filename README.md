@@ -427,11 +427,11 @@ Differences between a web app and native app
 
 ## Subtask 1
 
-[User Story Test Cases](https://drive.google.com/file/d/1mYZDD-dNx7rX-8V2MN9ezDqlhHHyWlm_/view?usp=sharing)
+[User Story Test Cases](https://docs.google.com/document/d/1YlV6qw-MPUpYXDdydKaSraBdUQ9TRY4LvKI2Kxr4dX8/edit?usp=sharing)
 
 ## Subtask 2
 
-[Own Experience Test 20 Cases](https://drive.google.com/file/d/1lF4GO8ekOtE1QXQBbYY1VaacnkYj3Ofn/view?usp=sharing)
+[Own Experience Test 20 Cases](https://docs.google.com/document/d/1iX-T3UK7ox24rK226AKM1z6tzzQrwh8WgcJVi5-r7_M/edit?usp=sharing)
 
 ## Subtask 3
 Dzięki przypdadkom testowym można zaplanować to co się chce przetestować i dzięki nim mamy pewność, że przy testowaniu nie pominie się żadnej ważnej funkcjonalności.
